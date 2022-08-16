@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoung Lee</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
-<img src="https://www.multisoftvirtualacademy.com/images/new-img/online-learning.gif" alt="coding gif" width="250px" align="right" />
+<img src="https://www.multisoftvirtualacademy.com/images/new-img/online-learning.gif" alt="coding gif" width="200px" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoung-lee&label=Profile%20views&color=0e75b6&style=flat" alt="ayoung-lee" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, React, C#**
