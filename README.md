@@ -3,7 +3,7 @@
 <img src="https://www.multisoftvirtualacademy.com/images/new-img/online-learning.gif" alt="coding gif" width="200px" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoung-lee&label=Profile%20views&color=0e75b6&style=flat" alt="ayoung-lee" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, TypeScript
+- 🌱 I’m currently learning **JavaScript, React, TypeScript**
 
 - 📫 How to reach me **aylee0729@gmail.com**
 
